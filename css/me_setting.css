@@ -1,0 +1,149 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 576671 */
+  src: url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.eot');
+  src: url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.svg#iconfont') format('svg');
+}
+
+
+body{
+	background-color: #F8F9FA;
+}
+#head{
+	width: 100%;
+	height: 0.94rem;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+}
+.head_left{
+	font-size: 0.40rem;
+	color: #5D5D5D;
+	line-height: 0.94rem;
+	margin-left: 0.42rem;
+	float: left;
+}
+.head_middle{
+	font-size: 0.36rem;
+	color: #5D5D5D;
+	line-height: 0.94rem;
+	margin-left: 2.58rem;
+	float: left;
+	font-weight: normal;
+}
+
+.table1{
+	width: 100%;
+	height: 3.23rem;
+	background-color: #fff;
+	margin-top: 0.4rem;
+}
+.table1_item{
+	width: 6.9rem;
+	height: 1.07rem;
+	margin-left: 0.42rem;
+	border-bottom: 0.01rem solid #E7E5E0;
+}
+.table_left h1{
+	font-size: 0.28rem;
+	color: #4F4F4F;
+	line-height: 1.07rem;
+	float: left;
+	font-weight: 500;
+}
+.table_right h2{
+	font-size: 0.23rem;
+	color: #888888;
+	padding-top: 0.4rem;
+	float: right;
+	margin-right: 0.33rem;
+}
+.table1_item3{
+	border-bottom: 0;
+}
+.table_middle{
+	margin-left: 0.36rem;
+	float: left;
+}
+.table_middle h1{
+	float: left;
+	font-size: 0.24rem;
+	color: #888888;
+	line-height: 1.09rem;
+	font-weight: 500;
+}
+
+.table2{
+	width: 100%;
+	height: 0.96rem;
+	background-color: #fff;
+	margin-top: 0.4rem;
+}
+.table2_item{
+	width: 6.9rem;
+	height: 0.96rem;
+	margin-left: 0.42rem;
+}
+.table_right_weizi12 h2{
+	color: #FF679D;
+	margin-right: 0.63rem;
+}
+.table_right_weizi12{
+	position: relative;
+}
+.table_right_weizi12 span{
+	font-size: 0.34rem;
+	color: #BFBBBA;
+	position: absolute;
+	right: 0.19rem;
+	line-height: 1.10rem;
+}
+
+.table3{
+	width: 100%;
+	height: 2.90rem;
+	background-color: #fff;
+	margin-top: 0.4rem;
+}
+.table3_item{
+	width: 6.9rem;
+	height: 0.96rem;
+	margin-left: 0.42rem;
+	border-bottom: 0.01rem solid #E7E5E0;
+}
+.table3_item3{
+	border-bottom: 0;
+}
+.table_weizi h1{
+	font-size: 0.28rem;
+	color: #4F4F4F;
+	line-height: 1.07rem;
+	float: left;
+	font-weight: 500;
+}
+
+.table_right_weizi{
+	float: right;
+	font-size: 0.24rem;
+	color: #888888;
+	line-height: 1.09rem;
+	font-weight: 500;
+	margin-right: 0.33rem;
+}
+
+.table2_right span{
+	font-family: 'iconfont';
+	color: #FF5893;
+	font-size: 0.3rem;
+	float: right;
+	margin-right: 0.5rem;
+	line-height: 0.96rem;
+}
+.table_left span{
+	font-family: 'iconfont';
+	color: #FF4D06;
+	float: left;
+	font-size: 0.6rem;
+	line-height: 0.96rem;
+}

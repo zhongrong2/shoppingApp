@@ -1,0 +1,85 @@
+body{
+	background-color: #F8F9FA;
+}
+#head{
+	width: 100%;
+	height: 0.94rem;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+}
+.head_left{
+	font-size: 0.40rem;
+	color: #5D5D5D;
+	line-height: 0.94rem;
+	margin-left: 0.42rem;
+	float: left;
+}
+.head_middle{
+	font-size: 0.36rem;
+	color: #5D5D5D;
+	line-height: 0.94rem;
+	margin-left: 2.18rem;
+	float: left;
+	font-weight: normal;
+}
+
+.table1{
+	width: 100%;
+	height: 5.35rem;
+	background-color: #fff;
+	margin-top: 0.4rem;
+}
+.table1_item{
+	width: 6.9rem;
+	height: 1.07rem;
+	margin-left: 0.42rem;
+	border-bottom: 0.01rem solid #E7E5E0;
+}
+.table_left h1{
+	font-size: 0.28rem;
+	color: #4F4F4F;
+	line-height: 1.07rem;
+	float: left;
+	font-weight: 500;
+}
+.table_right{
+	height: 100%;
+	float: right;
+	margin-right: 0.2rem;
+}
+.table_right_img{
+	float: left;
+}
+.table_right span{
+	font-size: 0.35rem;
+	color: #BEBAB9;
+	float: right;
+	line-height: 1.07rem;
+	font-weight: bold;
+}
+.table_right h2{
+	font-size: 0.3rem;
+	float: left;
+	color: #FF5E97;
+	line-height: 1.07rem;
+	margin-right: 0.2rem;
+	font-weight: 500;
+}
+.table1_item5{
+	border-bottom: 0;
+}
+
+#bottom{
+	width: 100%;
+	height: 0.96rem;
+	background-color: #fff;
+	border-top: 0.01rem solid #EFF0F1;
+	margin-top: 5.17rem;
+}
+#bottom h2{
+	font-size: 0.28rem;
+	line-height: 0.96rem;
+	text-align: center;
+	color: #FF5E97;
+	font-weight: 500;
+}

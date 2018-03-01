@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 576671 */
+  src: url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.eot');
+  src: url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.svg#iconfont') format('svg');
+}
+
+
+#head{
+	width: 100%;
+	height: 0.94rem;
+	background-color: #FF5893;
+	margin: 0 auto;
+}
+.head_left{
+	font-size: 0.40rem;
+	color: #fff;
+	line-height: 0.94rem;
+	margin-left: 0.42rem;
+	float: left;
+}
+.head_right{
+	font-size: 0.36rem;
+	color: #fff;
+	line-height: 0.94rem;
+	margin-left: 2.59rem;
+	float: left;
+}
+.login_top_title{
+	font-size: 0.3rem;
+	color: #353535;
+	text-align: center;
+	padding-top: 0.68rem;
+}
+
+.login_top_lianjie{
+	width: 6.03rem;
+	height: 2.94rem;
+	margin: 0 auto;
+	padding-top: 0.51rem;
+}
+.login_top_item{
+	height: 2.10rem;
+	width: 1.6rem;
+	float: left;
+	margin-right: 0.61rem;
+}
+.login_top_item_logo{
+	width: 1.6rem;
+	height: 1.6rem;
+	border-radius: 50%;
+	background-color: #DEF6D4;
+	float: left;
+	margin-bottom: 0.22rem;
+}
+.login_top_item_logo span{
+	font-family: 'iconfont';
+	color: #5AC830;
+	font-size: 0.8rem;
+	line-height: 1.6rem;
+	margin-left: 0.26rem;
+}
+.login_top_item_logo2 span{
+	color: #0DABE4;
+	margin-left: 0.38rem;
+}
+.login_top_item_logo3 span{
+	color: #FF685E;
+	margin-left: 0.38rem;
+}
+.login_top_item_logo2{
+	background-color: #D3EBF4;
+}
+.login_top_item_logo3{
+	background-color: #FFEBEA;
+}
+.login_top_item3{
+	margin-right: 0px;
+}
+.login_top_item h2{
+	font-size: 0.26rem;
+	text-align: center;
+	font-weight: normal;
+	color: #888888;
+}
+
+.register_user{
+	width: 7.04rem;
+	height: 2.03rem;
+	margin-left: 0.2rem;
+	margin-top: 0.5rem;
+}
+.register_user_diqu1{
+	width: 7.04rem;
+	height: 1.10rem;
+	border: 0.01rem solid #ECECEC;
+	border-left: 0rem;
+	font-size: 0.32rem;
+	color: #B5B5B5;
+	text-indent: 0.24rem;
+	line-height: 1.10rem;
+}
+.register_user_iphone1{
+	width: 7.04rem;
+	height: 1.10rem;
+	border: 0.01rem solid #ECECEC;
+	border-top: 0rem;
+	border-left: 0rem;
+	font-size: 0.32rem;
+	color: #B5B5B5;
+	text-indent: 0.24rem;
+	line-height: 1.10rem;
+}
+
+.register_weizi{
+	padding-top: 0.24rem;
+	margin-left: 0.31rem;
+}
+.register_weizi h3{
+	font-size: 0.22rem;
+	color: #8D8D8D;
+	display: block;
+	float: left;
+}
+.register_weizi h4{
+	font-size: 0.22rem;
+	color: #FF5B95;
+	display: block;
+	float: left;
+}
+
+.register_btn input{
+	width: 6.60rem;
+	height: 0.96rem;
+	border-radius: 0.3rem;
+	background-color: #E8E8E8;
+	border: 0;
+	margin-left: 0.31rem;
+	font-size: 0.3rem;
+	color: #fff;
+	text-align: center;
+	letter-spacing: 0.2rem;
+}

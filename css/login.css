@@ -1,0 +1,164 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 576671 */
+  src: url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.eot');
+  src: url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_576671_1w43smxq5dygb9.svg#iconfont') format('svg');
+}
+
+
+#head{
+	width: 100%;
+	height: 0.94rem;
+	background-color: #FF5893;
+	margin: 0 auto;
+}
+.head_left{
+	font-size: 0.40rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.94rem;
+	margin-left: 0.31rem;
+	float: left;
+}
+.head_middle{
+	font-size: 0.36rem;
+	color: #fff;
+	line-height: 0.94rem;
+	margin-left: 2.59rem;
+	float: left;
+	font-weight: normal;
+}
+.head_right{
+	font-size: 0.30rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.94rem;
+	display: block;
+	margin-right: 0.31rem;
+	float: right;
+}
+
+.login_top_title{
+	font-size: 0.32rem;
+	text-align: center;
+	padding-top: 0.68rem;
+}
+.login_top_lianjie{
+	width: 6.03rem;
+	height: 2.11rem;
+	margin: 0 auto;
+	padding-top: 0.51rem;
+}
+.login_top_item{
+	height: 2.10rem;
+	width: 1.6rem;
+	float: left;
+	margin-right: 0.61rem;
+}
+.login_top_item_logo{
+	width: 1.6rem;
+	height: 1.6rem;
+	border-radius: 50%;
+	background-color: #DEF6D4;
+	float: left;
+	margin-bottom: 0.22rem;
+}
+.login_top_item_logo span{
+	font-family: 'iconfont';
+	color: #5AC830;
+	font-size: 0.8rem;
+	line-height: 1.6rem;
+	margin-left: 0.26rem;
+}
+.login_top_item_logo2 span{
+	color: #0DABE4;
+	margin-left: 0.38rem;
+}
+.login_top_item_logo3 span{
+	color: #FF685E;
+	margin-left: 0.38rem;
+}
+.login_top_item_logo2{
+	background-color: #D3EBF4;
+}
+.login_top_item_logo3{
+	background-color: #FFEBEA;
+}
+.login_top_item3{
+	margin-right: 0px;
+}
+.login_top_item h2{
+	font-size: 0.26rem;
+	text-align: center;
+	font-weight: normal;
+	color: #888888;
+}
+.login_user{
+	width: 7.00rem;
+	height: 2.23rem;
+	margin-top: 1.3rem;
+	margin-left: 0.21rem;
+}
+.login_user_phone{
+	width: 7.00rem;
+	height: 1.10rem;
+	border: 0.01rem solid #ECECEC;
+	border-left: 0rem;
+	font-size: 0.32rem;
+	color: #B5B5B5;
+	text-indent: 0.24rem;
+	line-height: 1.10rem;
+}
+.login_user_pass{
+	width: 7.00rem;
+	height: 1.10rem;
+	border: 0.01rem solid #ECECEC;
+	border-top: 0rem;
+	border-left: 0rem;
+	font-size: 0.32rem;
+	color: #B5B5B5;
+	text-indent: 0.24rem;
+	line-height: 1.10rem;
+}
+.login_btn{
+	width: 6.60rem;
+	height: 0.96rem;
+	margin-left: 0.10rem;
+	float: left;
+}
+.login_btn1{
+	width: 6.60rem;
+	height: 0.96rem;
+	background-color: #FF5893;
+	border-radius: 0.2rem;
+	margin: 0 auto;
+	border: 0;
+	font-size: 0.32rem;
+	color: #fff;
+	letter-spacing: 0.2rem;
+	text-align: center;
+	line-height: 0.96rem;
+}
+
+.login_bottom{
+	width: 6.60rem;
+	height: 0.3rem;
+	padding-top: 0.55rem;
+	float: left;
+}
+.login_bottom_left{
+	font-size: 0.3rem;
+	color: #888888;
+	float: left;
+	margin-left: 0.3rem;
+	padding-top: 0.55rem;
+}
+.login_bottom_right{
+	font-size: 0.3rem;
+	color: #888888;
+	float: right;
+	/* margin-right: 0.31rem; */
+	padding-top: 0.55rem;
+}
